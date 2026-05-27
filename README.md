@@ -6,7 +6,7 @@ agrega las actualizaciones sin tener acceso a los datos crudos.
 
 ---
 
-## Arquitectura — ResNet-Mini
+## Arquitectura - ResNet-Mini
 
 ```
 Entrada (28×28×1)
