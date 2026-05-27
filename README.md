@@ -1,7 +1,7 @@
 # Aprendizaje Federado con MNIST
 
 Un flujo de trabajo de aprendizaje federado para clasificación de dígitos usando el dataset MNIST.
-Cada integrante del equipo entrena un modelo local sobre su partición privada de datos; un servidor central
+Cada integrante del equipo entrena un modelo local sobre su partición privada de datos, un servidor central
 agrega las actualizaciones sin tener acceso a los datos crudos.
 
 ---
